@@ -1,4 +1,4 @@
-# bff-calculator-poc
+# backend-calculator-poc
 
 Hello, <br/>
 I'm build a simple calculator based um microservices architecture.<br/>
