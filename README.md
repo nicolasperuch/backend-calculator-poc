@@ -1,10 +1,18 @@
-# Simple calculator using microservices.
+# bff-calculator-poc
 
-#### Using
- * Angular
- * Spring boot
+Hello, <br/>
+I'm build a simple calculator based um microservices architecture.<br/>
 
-#### PS
-```
-Lots of things are hardcoded purposely. So don't be mad lol 
-```
+## About this application
+
+**Programming language**: Java <br/>
+**Using so far**: Spring boot<br/>
+
+***
+
+You can find the others repositories below:<br/>
+* front-end repository: [here](https://github.com/nicolasperuch/frontend-calculator-poc)<br/>
+* bff repository: [here](https://github.com/nicolasperuch/bff-calculator-poc)
+
+
+
